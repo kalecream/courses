@@ -25,7 +25,23 @@ Storage repo for every online course I've ever taken.
 |[Customer Service: Creating Customer Value (2015)](https://www.linkedin.com/learning/customer-service-creating-customer-value-2015)|9/17/2021|
 |[Innovative Customer Service Techniques](https://www.linkedin.com/learning/innovative-customer-service-techniques)|9/17/2021|
 
-## Visual Studio
+### Excel
 |Course Name | Certificate Issued |
 |-|-|
-|[Visual Studio Code: Building an Extension]
+|[Excel Spreadsheet Design: Extreme Makeover](Excel Spreadsheet Design: Extreme Makeover)|10/9/2021|
+
+### Python
+|Course Name | Certificate Issued |
+|-|-|
+|[Learning Python(2020)](https://www.linkedin.com/learning/learning-python-2020)|10/9/2021|
+
+
+### Visual Studio
+|Course Name | Certificate Issued |
+|-|-|
+|[Visual Studio Code: Building an Extension](https://www.linkedin.com/learning/visual-studio-code-building-an-extension)|10/8/2021|
+
+### Windows
+|Course Name | Certificate Issued |
+|-|-|
+[Windows 10: Tips and Tricks](https://www.linkedin.com/learning/windows-10-tips-and-tricks)|10/10/2021|
