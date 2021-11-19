@@ -28,7 +28,7 @@ Storage repo for every online course I've ever taken.
 ### Excel
 |Course Name | Certificate Issued |
 |-|-|
-|[Excel Spreadsheet Design: Extreme Makeover](Excel Spreadsheet Design: Extreme Makeover)|10/9/2021|
+|[Excel Spreadsheet Design: Extreme Makeover](https://www.linkedin.com/learning/excel-spreadsheet-design-extreme-makeover)|10/9/2021|
 
 ### Python
 |Course Name | Certificate Issued |
