@@ -13,6 +13,11 @@ Storage repo for every online course I've ever taken.
 |-|-|
 |[Administrative Professional Foundations](https://www.linkedin.com/learning/administrative-professional-foundations/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)|9/2/2021|
 
+## Blender
+|Course Name | Certificate Issued |
+|-|-|
+|[Blender 2.91 Essential Training](https://www.linkedin.com/learning/blender-2-91-essential-training/)| In-Progress
+
 ### Customer Service
 |Course Name | Certificate Issued |
 |-|-|
