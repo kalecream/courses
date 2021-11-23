@@ -39,6 +39,7 @@ Storage repo for every online course I've ever taken.
 |Course Name | Certificate Issued |
 |-|-|
 |[Learning Python(2020)](https://www.linkedin.com/learning/learning-python-2020)|10/9/2021|
+|[Using Python with Excel](https://www.linkedin.com/learning/using-python-with-excel/)|23/11/2021|
 
 
 ### Visual Studio
